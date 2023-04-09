@@ -1,8 +1,7 @@
 import React from "react";
-import { Skills } from "../pages/SkillsPage";
 
 interface Props {
-  skills: Skills[];
+  skills: any[];
 }
 
 export default function SkillsItem(props: Props) {
