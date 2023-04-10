@@ -1,13 +1,13 @@
 import React from "react";
 
 interface Props {
-  skills: any[];
+  skillsData: any[];
 }
 
 export default function SkillsItem(props: Props) {
   return (
     <div className="skills-container">
-      {props.skills.map((skill) => (
+      {props.skillsData.map((skill) => (
         <article className="skills-article">
           <img
             className="skills-img"
