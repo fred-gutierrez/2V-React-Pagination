@@ -4,10 +4,6 @@
     "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   },
   {
-    "skillName": "Angular",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
-  },
-  {
     "skillName": "Sass",
     "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
   },
@@ -34,6 +30,10 @@
   {
     "skillName": "TypeScript",
     "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  },
+  {
+    "skillName": "Angular",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
   },
   {
     "skillName": "Svelte",
